@@ -25,7 +25,7 @@
     "cross-spawn": "~0.2.8",
     "debug": "^2.2.0",
     "giturl": "^1.0.0",
-    "npm": "^4.4.4",
+    "npm": "^4.5.0",
     "npm-request": "^1.0.0",
     "npminstall": "beta",
     "open": "^0.0.5",
